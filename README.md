@@ -1,2 +1,2 @@
 # control_repo
-This is a change
+Puppet Control Repo
